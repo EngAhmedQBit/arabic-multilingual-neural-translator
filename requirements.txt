@@ -1,0 +1,7 @@
+# Install into the project's virtual environment
+transformers==4.57.6
+torch>=2.0.0
+sentencepiece>=0.1.99
+sacremoses>=0.1.1
+streamlit>=1.28.0
+numpy>=1.24.0
